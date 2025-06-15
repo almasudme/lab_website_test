@@ -1,9 +1,15 @@
 ---
 ---
 
-# almasudme's Website
+# About Us  
+The CyberDefence and Research Laboratory develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings [age for more information and a description of our current open positions.
 
-An engaging 1-3 sentence description of your lab.
+# News  
+The CyberDefence and Research Laboratory develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings [age for more information and a description of our current open positions.
+## May 21, 2025
+Elijah Needham presented our conference paper “Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities using N-Shot Learning” at FLAIRS-38 in Daytona Beach! This paper explores how LLMs can be leveraged to characterize vulnerabilities only using limited training data.
+
+Elijah Needham presented our research paper "FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer Learning for Intrusion Detection in VANETs." at 38th Annual Florida Artificial Intelligence Research Society Conference (FLAIRS-38) in Daytona Beach, Florida. 
 
 {% include section.html %}
 
