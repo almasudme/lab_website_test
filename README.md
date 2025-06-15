@@ -5,6 +5,6 @@
 
   # almasudme's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[almasudme.github.io/lab_website_test](https://almasudme.github.io/lab_website_test)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
