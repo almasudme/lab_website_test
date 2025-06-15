@@ -1,7 +1,7 @@
 ---
 name: Ayesha S. Dina
 image: images/photo.jpg
-role: principal-investigator
+role: assistant-professor
 affiliation: Florida Polytechnic University
 aliases: A. Dina
   - A Dina
