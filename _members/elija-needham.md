@@ -1,7 +1,8 @@
 ---
-name: John Doe
+name: Elijah Needham
 image: images/photo.jpg
-role: phd
+role: grad-student
+affiliation: Florida Polytechnic University
 group: alum
 links:
   github: john-doe

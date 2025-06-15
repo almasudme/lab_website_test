@@ -1,12 +1,13 @@
 ---
-name: Ayesha S. Dina
+name: Colby Edell 
 image: images/photo.jpg
-role: principal-investigator
-affiliation: Florida Polytechnic University
-aliases: A. Dina
-  - A Dina
+role: alumni
+affiliation: Software Engineer at Torch Designs
+aliases: C. Edell
+  - C Edell
+group: alum
 links:
-  home-page: https://ayeshasdina.github.io
+  home-page: https://www.linkedin.com/in/colbyedell/
   orcid: 0000-0001-8713-9213
 ---
 
