@@ -14,7 +14,7 @@
   tags:
     - open science
     - collaboration
-  repo: greenelab/meta-review
+  repo: https://github.com/ayeshasdina/FSProtoTransfer
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
