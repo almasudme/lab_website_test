@@ -2,12 +2,12 @@
 name: Jane Smith
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Florida Polytechnic University
 aliases:
-  - J. Smith
-  - J Smith
+A. Dina
+  - A Dina
 links:
-  home-page: https://janesmith.com
+  home-page: https://ayeshasdina.github.io/
   orcid: 0000-0001-8713-9213
 ---
 
