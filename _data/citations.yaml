@@ -1,50 +1,69 @@
-- id: https://doi.org/10.32473/flairs.38.1.138952
-  title: "FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer Learning for Intrusion Detection in VANETs"
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.32473/flairs.38.1.138952
+  title: 'FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer
+    Learning for Intrusion Detection in VANETs'
+  authors:
+  - Ayesha Dina
+  - Colby Edell
+  - Karim Elish
+  - Arijet Sarker
+  publisher: The International FLAIRS Conference Proceedings
+  date: '2025-05-14'
+  link: https://doi.org/g9qcjq
+  orcid: 0000-0001-6897-0837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3627106.3627193
+  title: 'FS3: Few-Shot and Self-Supervised Framework for Efficient Intrusion Detection
+    in Internet of Things Networks'
+  authors:
+  - Dina Ayesha S.
+  - Siddique A.B.
+  - Manivannan D.
+  publisher: Annual Computer Security Applications Conference
+  date: '2023-12-04'
+  link: https://doi.org/g9qcjr
+  orcid: 0000-0001-6897-0837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.iot.2021.100462
+  title: Intrusion detection based on Machine Learning techniques in computer networks
   authors:
   - Ayesha S. Dina
-  - Colby J. Edell
-  - Karim O. Elish
-  - Arijet Sarker
-  publisher: The Florida Artificial Intelligence Research Society (Flairs)
-  date: '2025-05-14'
-  link: https://doi.org/10.32473/flairs.38.1.138952
+  - D. Manivannan
+  publisher: Internet of Things
+  date: '2021-12-01'
+  link: https://doi.org/g9qcjs
+  orcid: 0000-0001-6897-0837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2019-06-24'
+  link: https://doi.org/c7np
+  image: https://github.com/almasudme/lab_website_test/blob/main/images/nshot.png
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: In this paper, we propose a novel framework FSProtoTransfer, to detect intrusions in VANETs environment. FSProtoTransfer consists of three phases. The first phase utilizes self-supervised learning to extract latent patterns and robust representations from unlabeled data. In the second phase, few-shot learning with a prototypical network is applied to train the pre-trained model, enabling it to learn effectively from a small number of labeled examples and reducing the reliance on large labeled datasets. The third phase leverages transfer learning with a Multi-Layer Perceptron (MLP) to perform the
-  image: https://github.com/almasudme/lab_website_test/blob/main/images/fsproto.png
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://www.researchgate.net/publication/391795782_FSProtoTransfer_Synergizing_Few-Shot_Prototypical_Networks_and_Transfer_Learning_for_Intrusion_Detection_in_VANETs
-  - type: website
-    link: https://journals.flvc.org/FLAIRS/article/view/138952
-  tags:
-  - FewShot
-  - Intrusion Detection
-  repo: https://github.com/ayeshasdina/FSProtoTransfer
 - id: https://doi.org/10.32473/flairs.38.1.138858
-  title: "Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities using N-Shot Learning"
+  title: Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities
+    using N-Shot Learning
   authors:
-  - Ayesha S. Dina
+  - Ayesha Dina
   - Elijah Needham
   - Denis Ulybyshev
-  publisher: The Florida Artificial Intelligence Research Society (Flairs)
+  publisher: The International FLAIRS Conference Proceedings
   date: '2025-05-14'
-  link: https://doi.org/10.32473/flairs.38.1.138858
+  link: https://journals.flvc.org/FLAIRS/article/view/138858
+  image: https://github.com/almasudme/lab_website_test/blob/main/images/fsproto.png
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: this paper proposes a solution utilizing three Large Language Models (LLMs) - GPT-4o, Llama-3.1-405B, and Gemini-1.5-flash - to automate the characterization of vulnerabilities across 27 categories, grouped into five noun groups. We use both few-shot and zero-shot learning to prompt the LLMs. Our experimental results show that GPT-4o achieves F1-scores of 80%, 90%, 90%, and 73% in the context, impact-method, attack theater, and logical impact noun groups, respectively, using a few labeled samples.
-  image: https://github.com/almasudme/lab_website_test/blob/main/images/nshot.png
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://www.researchgate.net/publication/391794727_Large_Language_Models_for_Automated_Characterization_of_Cybersecurity_Vulnerabilities_using_N-Shot_Learning
-  - type: website
-    link: https://doi.org/10.32473/flairs.38.1.138858
-  tags:
-  - Cybersecurity
-  - LLM
-  - AI
-  repo: https://github.com/ayeshasdina/FSProtoTransfer
