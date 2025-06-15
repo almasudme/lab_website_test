@@ -1,0 +1,1 @@
+Sitemap: https://almasudme.github.io/lab_website_test/sitemap.xml
