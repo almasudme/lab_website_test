@@ -7,7 +7,7 @@ aliases:
 A. Dina
   - A Dina
 links:
-  home-page: https://ayeshasdina.github.io/
+  home-page: https://ayeshasdina.github.io
   orcid: 0000-0001-8713-9213
 ---
 
