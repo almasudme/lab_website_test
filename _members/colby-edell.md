@@ -2,6 +2,7 @@
 name: Colby Edell 
 image: images/photo.jpg
 role: alumni
+description: BS in CS (Graduated May 2025)
 affiliation: Software Engineer at Torch Designs
 aliases: C. Edell
   - C Edell
