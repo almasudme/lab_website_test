@@ -3,8 +3,7 @@ name: Jane Smith
 image: images/photo.jpg
 role: principal-investigator
 affiliation: Florida Polytechnic University
-aliases:
-A. Dina
+aliases: A. Dina
   - A Dina
 links:
   home-page: https://ayeshasdina.github.io
