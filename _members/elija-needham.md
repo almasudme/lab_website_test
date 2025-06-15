@@ -3,7 +3,6 @@ name: Elijah Needham
 image: images/photo.jpg
 role: grad-student
 affiliation: Florida Polytechnic University
-group: alum
 links:
   github: john-doe
 ---
